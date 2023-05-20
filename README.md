@@ -7,7 +7,7 @@ Kelas Belajar Membuat Front-End Web untuk Pemula [dicoding.com](https://dicoding
 
 ### Screenshots
 
-![App Screenshot](https://cdn.discordapp.com/attachments/831277490377850930/1109336568713453620/Screenshot_2023-05-19_212712.png)
+[App Screenshot](https://cdn.discordapp.com/attachments/831277490377850930/1109336568713453620/Screenshot_2023-05-19_212712.png)
 
 ### Authors
 
