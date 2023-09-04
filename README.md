@@ -1,4 +1,4 @@
-# Bookshelf-Apps
+# Bookshelf Apps
 
 ### About The Project
 
